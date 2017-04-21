@@ -2,6 +2,7 @@
 <html>
  <head> 
    <link rel="stylesheet" href:"style.css" />
+   <title>My Profile</title>
  </head>
  <body>
    <h1>Welcome to my home(the web)!</h1>
