@@ -5,7 +5,7 @@
  </head>
  <body>
    <h1>Welcome to my home(the web)!</h1>
-   <img scr="pics.jpg" />
+   <img src="pics.jpg" />
    <h2>About meh<h2>
    <p> Haii My name is Nigel and Im a 13 year old that studies in DHS</p>
    <h2>Interests and Hobbies</h2>
